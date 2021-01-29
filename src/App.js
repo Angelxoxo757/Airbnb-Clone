@@ -8,8 +8,11 @@ function App() {
       {/* HEADER */}
 
       {/* BANNER */}
+      {/* Search */}
       {/* Cards */}
       {/* Footer */}
+      {/* SearchPage */}
+      {/* .... */}
     </div>
   );
 }
