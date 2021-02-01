@@ -5,7 +5,6 @@ import Banner from "./Banner";
 function Home() {
   return (
     <div className="hone">
-      <h1>Home Component</h1>
       <Banner />
     </div>
   );

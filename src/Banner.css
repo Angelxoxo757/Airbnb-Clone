@@ -5,6 +5,18 @@
   position: relative;
 }
 
+.banner-search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner-searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+}
+
 .banner-info {
   background-color: black;
   color: white;
