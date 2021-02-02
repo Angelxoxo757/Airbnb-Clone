@@ -27,9 +27,9 @@ function Search() {
       <h2>
         Number of guests
         <PeopleIcon />
-        <input min={0} defaultValue={2} type="header" />
-        <Button>Search Airbnb</Button>
       </h2>
+      <input min={0} defaultValue={2} type="number" />
+      <Button>Search Airbnb</Button>
     </div>
   );
 }
