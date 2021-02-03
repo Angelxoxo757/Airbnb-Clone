@@ -13,6 +13,12 @@ function SearchPage() {
         <Button variant="outlined">Price</Button>
         <Button variant="outlined">Rooms and beds</Button>
         <Button variant="outlined">More filters</Button>
+
+        <SearchResult />
+        <img
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDB1oOGlulst14w0PLYLo7h2J4zHkOfgke8w&usqp=CAU"
+          location="Private room in the center of london."
+        />
       </div>
     </div>
   );
